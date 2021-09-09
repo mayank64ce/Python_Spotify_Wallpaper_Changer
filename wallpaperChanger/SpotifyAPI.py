@@ -105,9 +105,3 @@ class SpotifyAPI(object):
     # Implement get_artist_info()
     # Implement get_genres()
     # Implement change_wallpapers()
-
-
-
-
-
-
