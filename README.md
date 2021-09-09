@@ -1,2 +1,2 @@
-# Python_Spotify_Wallpaper_Changer
+# Python Spotify Wallpaper Changer
  

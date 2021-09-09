@@ -1,2 +1,4 @@
 spotipy
 requests
+nodejs
+urllib.parse
